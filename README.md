@@ -1,4 +1,8 @@
 # Web Scraping com Python
+Primeiro exercício em python, derivado do web-scraping-python de yurialeksndr (https://github.com/yurialeksndr/web-scraping-python)
+(em andamento...).
+<br /> / / / <br />
+
 Um breve exercício de raspagem de dados na web ~~e meu primeiro contato~~ com a linguagem Python. O programa realiza uma requisição à página Hot 100 Billboard, coleta os dados e imprime uma lista em terminal com: nome do artista, título da faixa e sua posição na lista.
 
 **BIBLIOTECAS UTILIZADAS** (necessária a instalação): <br />
